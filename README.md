@@ -1,6 +1,6 @@
 <h1 align='center'>RocketShoes</h1>
-<img src='./gitimg/rocktenisgif.gif' alt='gif de demostração'/>
-<img src='./gitimg/rockttenis.png' alt='gif de demostração'/>
+<img src='./gitimg/rocktenisgif.gif' alt='gif de demostracao'/>
+<img src='./gitimg/rockttenis.png' alt='imagem de demostracao'/>
 
 <br>
 <h3>
